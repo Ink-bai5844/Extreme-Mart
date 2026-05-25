@@ -1,0 +1,35 @@
+<?xml version="1.0" ?><annotation>
+  <filename>helmet_17480.jpg</filename>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>216</xmin>
+      <ymin>0</ymin>
+      <xmax>327</xmax>
+      <ymax>210</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>963</xmin>
+      <ymin>215</ymin>
+      <xmax>1055</xmax>
+      <ymax>470</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hat</name>
+    <bndbox>
+      <xmin>992</xmin>
+      <ymin>217</ymin>
+      <xmax>1040</xmax>
+      <ymax>259</ymax>
+    </bndbox>
+  </object>
+</annotation>
