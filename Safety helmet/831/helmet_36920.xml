@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <filename>helmet_36920.jpg</filename>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>115</xmin>
+      <ymin>119</ymin>
+      <xmax>201</xmax>
+      <ymax>357</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hat</name>
+    <bndbox>
+      <xmin>120</xmin>
+      <ymin>119</ymin>
+      <xmax>154</xmax>
+      <ymax>157</ymax>
+    </bndbox>
+  </object>
+</annotation>
